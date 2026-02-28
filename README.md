@@ -1,4 +1,4 @@
- #Installation
+#Installation
  To run this project, you need to install these libraries:
           -Tensorflow & Keras:These are used to train our AI model.
           -OpenCV:This helps the computer see and the process the vegetable images(like resizing them)
@@ -19,4 +19,4 @@
 
  #Add a link:
           [Click here to see my code]
-          https://github.com/VTharshi/vegetable-classification-system/edit/main/README.md
+          https://github.com/VTharshi/vegetable-classification-system/upload/main
