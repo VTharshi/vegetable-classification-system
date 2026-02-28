@@ -18,6 +18,6 @@
             A.Kinthusan(ASP/2022/161)
 
  #Add a link:
-          [Click here to see my code]:VTharshi/vegetable-classification-system: A Deep Learning-based Image Classification System to identify and classify various vegetables using CNN/Keras.
-
+          [Click here to see my code]:https://github.com/VTharshi/vegetable-classification-system
           
+
